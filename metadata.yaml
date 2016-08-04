@@ -1,0 +1,26 @@
+_repo: On-the-Advisableness-of-Improving-Natural-Knowledge_2934
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: ''
+gutenberg_issued: '2001-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science'
+- !lcc 'Q'
+- GITenberg
+title: On the Advisableness of Improving Natural Knowledge
+url: http://www.gutenberg.org/ebooks/2934
